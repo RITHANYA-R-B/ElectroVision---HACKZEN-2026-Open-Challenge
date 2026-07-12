@@ -1,0 +1,23 @@
+{
+    "name": "Integrated Circuit (IC)",
+    "function": "Performs multiple electronic functions by integrating many components onto a single chip.",
+    "applications": [
+        "Microcontrollers",
+        "Signal processing",
+        "Power management",
+        "Logic circuits"
+    ],
+    "common_values": [
+        "555 Timer",
+        "ATmega328P",
+        "LM358",
+        "74HC595"
+    ],
+    "failure_symptoms": [
+        "Overheating",
+        "No output",
+        "Damaged pins",
+        "Short circuit"
+    ],
+    "interesting_fact": "A modern IC can contain millions or even billions of tiny transistors on a single chip."
+}

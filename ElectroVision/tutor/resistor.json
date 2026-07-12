@@ -1,0 +1,20 @@
+{
+    "name": "Resistor",
+    "function": "Limits the flow of electrical current in a circuit.",
+    "applications": [
+        "LED circuits",
+        "Voltage divider",
+        "Current limiting"
+    ],
+    "common_values": [
+        "220 Ω",
+        "1 kΩ",
+        "10 kΩ"
+    ],
+    "failure_symptoms": [
+        "Burn marks",
+        "Open circuit",
+        "Wrong resistance value"
+    ],
+    "interesting_fact": "The coloured bands on a resistor indicate its resistance value."
+}

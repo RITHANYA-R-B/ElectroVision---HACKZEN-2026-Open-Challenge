@@ -1,0 +1,20 @@
+{
+    "name": "Capacitor",
+    "function": "Stores electrical energy temporarily.",
+    "applications": [
+        "Power supplies",
+        "Filters",
+        "Timing circuits"
+    ],
+    "common_values": [
+        "10 µF",
+        "100 µF",
+        "1000 µF"
+    ],
+    "failure_symptoms": [
+        "Bulging top",
+        "Leakage",
+        "Short circuit"
+    ],
+    "interesting_fact": "Capacitors can store charge even after power is turned off."
+}

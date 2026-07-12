@@ -1,0 +1,20 @@
+{
+    "name": "Diode",
+    "function": "Allows electric current to flow in only one direction while blocking reverse current.",
+    "applications": [
+        "Rectifier circuits",
+        "Reverse polarity protection",
+        "Signal clipping and clamping"
+    ],
+    "common_values": [
+        "1N4007",
+        "1N4148",
+        "Schottky Diode"
+    ],
+    "failure_symptoms": [
+        "Short circuit",
+        "Open circuit",
+        "Overheating"
+    ],
+    "interesting_fact": "A diode acts like a one-way valve for electrical current."
+}

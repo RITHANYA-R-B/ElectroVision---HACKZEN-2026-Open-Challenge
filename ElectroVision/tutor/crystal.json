@@ -1,0 +1,21 @@
+{
+    "name": "Crystal Oscillator",
+    "function": "Generates a highly accurate clock signal using the vibration of a quartz crystal.",
+    "applications": [
+        "Microcontrollers",
+        "Computers",
+        "Communication devices",
+        "Real-time clocks"
+    ],
+    "common_values": [
+        "8 MHz",
+        "16 MHz",
+        "32.768 kHz"
+    ],
+    "failure_symptoms": [
+        "No clock signal",
+        "System fails to start",
+        "Unstable frequency"
+    ],
+    "interesting_fact": "Quartz crystals vibrate at a precise frequency, making them ideal for generating stable timing signals."
+}

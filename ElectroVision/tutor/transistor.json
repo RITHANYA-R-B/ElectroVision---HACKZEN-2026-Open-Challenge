@@ -1,0 +1,21 @@
+{
+    "name": "Transistor",
+    "function": "Acts as an electronic switch or amplifier for electrical signals.",
+    "applications": [
+        "Switching circuits",
+        "Amplifiers",
+        "Motor control",
+        "Digital logic"
+    ],
+    "common_values": [
+        "BC547",
+        "2N2222",
+        "TIP122"
+    ],
+    "failure_symptoms": [
+        "No amplification",
+        "Short circuit",
+        "Overheating"
+    ],
+    "interesting_fact": "Transistors are one of the most important inventions in electronics and are the building blocks of modern computers."
+}

@@ -1,0 +1,21 @@
+{
+    "name": "LED",
+    "function": "Emits light when electrical current flows through it.",
+    "applications": [
+        "Status indicators",
+        "Display panels",
+        "Lighting systems"
+    ],
+    "common_values": [
+        "Red LED",
+        "Green LED",
+        "Blue LED",
+        "White LED"
+    ],
+    "failure_symptoms": [
+        "No light output",
+        "Dim brightness",
+        "Burnt LED"
+    ],
+    "interesting_fact": "LED stands for Light Emitting Diode and consumes much less power than traditional bulbs."
+}

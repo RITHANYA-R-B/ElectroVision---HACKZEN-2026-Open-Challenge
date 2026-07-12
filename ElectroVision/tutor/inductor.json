@@ -1,0 +1,21 @@
+{
+    "name": "Inductor",
+    "function": "Stores energy in a magnetic field when electric current flows through it.",
+    "applications": [
+        "Power supplies",
+        "Filters",
+        "RF circuits",
+        "DC-DC converters"
+    ],
+    "common_values": [
+        "10 µH",
+        "100 µH",
+        "1 mH"
+    ],
+    "failure_symptoms": [
+        "Broken coil",
+        "Open circuit",
+        "Burnt winding"
+    ],
+    "interesting_fact": "Inductors oppose sudden changes in current and are often called coils or chokes."
+}
